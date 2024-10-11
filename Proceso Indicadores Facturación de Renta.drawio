@@ -119,7 +119,7 @@
         <mxCell id="xKKki33RpCwuL4efQ2zm-3" value="No tomar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#B3FF66;strokeColor=#66CC00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="717" y="580" width="227" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xKKki33RpCwuL4efQ2zm-4" value="Toma de la columna &quot;Líneas de factura / Etiqueta&quot; las líneas:&amp;nbsp;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Alquileres, Complemento de Alquiler, Indemnización&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#B3FF66;strokeColor=#66CC00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xKKki33RpCwuL4efQ2zm-4" value="Toma para la columna &quot;Líneas de factura / Etiqueta&quot; las líneas:&amp;nbsp;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Alquileres, Complemento de Alquiler, Indemnización&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#B3FF66;strokeColor=#66CC00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="710" width="227" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xKKki33RpCwuL4efQ2zm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#D6B656;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KAMWv7pemtYJYZv9y_ob-45" target="KAMWv7pemtYJYZv9y_ob-32">
