@@ -139,73 +139,73 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="140" as="targetPoint" />
             <mxPoint x="220" y="140" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E8Wn0cG4T92t8glCtYgr-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#D6B656;" edge="1" parent="1" source="HabyqpvQ-63LSKwvWhZR-3" target="HabyqpvQ-63LSKwvWhZR-26">
+        <mxCell id="E8Wn0cG4T92t8glCtYgr-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#D6B656;" parent="1" source="HabyqpvQ-63LSKwvWhZR-3" target="HabyqpvQ-63LSKwvWhZR-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-3" value="Selecciona la pestaña &quot;Clientes&quot; y la opción &quot;Facturas Gastos Reembolsables&quot;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-3" value="Selecciona la pestaña &quot;Clientes&quot; y la opción &quot;Facturas Gastos Reembolsables&quot;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="330" y="70.00999999999999" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E8Wn0cG4T92t8glCtYgr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#D6B656;" edge="1" parent="1" source="HabyqpvQ-63LSKwvWhZR-5" target="HabyqpvQ-63LSKwvWhZR-7">
+        <mxCell id="E8Wn0cG4T92t8glCtYgr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#D6B656;" parent="1" source="HabyqpvQ-63LSKwvWhZR-5" target="HabyqpvQ-63LSKwvWhZR-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-5" value="Da clic en la opción &quot;Filtro&quot;, selecciona &quot;Fecha de Factura&quot; seguido del mes a visualizar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-5" value="Da clic en la opción &quot;Filtro&quot;, selecciona &quot;Fecha de Factura&quot; seguido del mes a visualizar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="580" y="190" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#D6B656;" edge="1" parent="1" source="HabyqpvQ-63LSKwvWhZR-7" target="HabyqpvQ-63LSKwvWhZR-9">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#D6B656;" parent="1" source="HabyqpvQ-63LSKwvWhZR-7" target="HabyqpvQ-63LSKwvWhZR-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-7" value="En la visual de facturas marca check en la pestaña &quot;Número&quot;, y selecciona el grupo de facturas" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFF2CC;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-7" value="En la visual de facturas marca check en la pestaña &quot;Número&quot;, y selecciona el grupo de facturas" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFF2CC;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="330" y="190" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2YpaQFn7NCSF2Sjay1o--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#D6B656;" edge="1" parent="1" source="HabyqpvQ-63LSKwvWhZR-9" target="HabyqpvQ-63LSKwvWhZR-12">
+        <mxCell id="2YpaQFn7NCSF2Sjay1o--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#D6B656;" parent="1" source="HabyqpvQ-63LSKwvWhZR-9" target="HabyqpvQ-63LSKwvWhZR-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-9" value="Da clic en &quot;Acción&quot; seguido de la opción &quot;Exportar&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-9" value="Da clic en &quot;Acción&quot; seguido de la opción &quot;Exportar&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="74.75" y="190" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-10" value="Archivo Excel" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#B3FF66;strokeColor=#66CC00;" vertex="1" parent="1">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-10" value="Archivo Excel" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#B3FF66;strokeColor=#66CC00;" parent="1" vertex="1">
           <mxGeometry x="355" y="450" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2YpaQFn7NCSF2Sjay1o--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#D6B656;" edge="1" parent="1" source="HabyqpvQ-63LSKwvWhZR-12" target="HabyqpvQ-63LSKwvWhZR-19">
+        <mxCell id="2YpaQFn7NCSF2Sjay1o--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#D6B656;" parent="1" source="HabyqpvQ-63LSKwvWhZR-12" target="HabyqpvQ-63LSKwvWhZR-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-12" value="En la ventana &quot;Exportar Información&quot;, va la pestaña de &quot;Campos a exportar&quot;, despliega la lista &quot;Plantilla&quot; y selecciona la opción &lt;span style=&quot;background-color: rgb(204, 0, 102);&quot;&gt;&quot;R-01 Facturación&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-12" value="En la ventana &quot;Exportar Información&quot;, va la pestaña de &quot;Campos a exportar&quot;, despliega la lista &quot;Plantilla&quot; y selecciona la opción &quot;R-02 Facturación&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="71.25" y="310" width="227" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-13" value="Leyenda" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-13" value="Leyenda" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="220" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-14" value="" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="HabyqpvQ-63LSKwvWhZR-13">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-14" value="" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="HabyqpvQ-63LSKwvWhZR-13" vertex="1">
           <mxGeometry x="45" y="50" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-15" value="Odoo" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HabyqpvQ-63LSKwvWhZR-13">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-15" value="Odoo" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HabyqpvQ-63LSKwvWhZR-13" vertex="1">
           <mxGeometry x="70" y="45" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-16" value="" style="whiteSpace=wrap;html=1;fillColor=#CCFF99;strokeColor=#66CC00;" vertex="1" parent="HabyqpvQ-63LSKwvWhZR-13">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-16" value="" style="whiteSpace=wrap;html=1;fillColor=#CCFF99;strokeColor=#66CC00;" parent="HabyqpvQ-63LSKwvWhZR-13" vertex="1">
           <mxGeometry x="45" y="90" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-17" value="Excel" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HabyqpvQ-63LSKwvWhZR-13">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-17" value="Excel" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HabyqpvQ-63LSKwvWhZR-13" vertex="1">
           <mxGeometry x="70" y="85" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-18" value="" style="whiteSpace=wrap;html=1;fillColor=#C3ABD0;strokeColor=#B5739D;" vertex="1" parent="HabyqpvQ-63LSKwvWhZR-13">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-18" value="" style="whiteSpace=wrap;html=1;fillColor=#C3ABD0;strokeColor=#B5739D;" parent="HabyqpvQ-63LSKwvWhZR-13" vertex="1">
           <mxGeometry x="45" y="130" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-19" value="Da clic en el botón &quot;Exportar&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-19" value="Da clic en el botón &quot;Exportar&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="326.5" y="310" width="227" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-20" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" target="HabyqpvQ-63LSKwvWhZR-22">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-20" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" target="HabyqpvQ-63LSKwvWhZR-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="111.25" as="sourcePoint" />
             <mxPoint x="365" y="111" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#D6B656;" edge="1" parent="1" source="HabyqpvQ-63LSKwvWhZR-22" target="HabyqpvQ-63LSKwvWhZR-3">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#D6B656;" parent="1" source="HabyqpvQ-63LSKwvWhZR-22" target="HabyqpvQ-63LSKwvWhZR-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="110" />
@@ -213,22 +213,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-22" value="&lt;div&gt;Selecciona la compañía &quot;Operadora&quot;,&lt;/div&gt;ingresa al módulo &quot;Contabilidad&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-22" value="&lt;div&gt;Selecciona la compañía &quot;Operadora&quot;,&lt;/div&gt;ingresa al módulo &quot;Contabilidad&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="74.75" y="61.88" width="223.5" height="96.25" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#D6B656;" edge="1" parent="1" source="HabyqpvQ-63LSKwvWhZR-19" target="HabyqpvQ-63LSKwvWhZR-10">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#D6B656;" parent="1" source="HabyqpvQ-63LSKwvWhZR-19" target="HabyqpvQ-63LSKwvWhZR-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#B3FF66;strokeColor=#66CC00;" vertex="1" parent="1">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#B3FF66;strokeColor=#66CC00;" parent="1" vertex="1">
           <mxGeometry x="67.75" y="540" width="227" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-25" value="&lt;b&gt;Nota:&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;Los &quot;Gastos Reembolsables&quot; se facturan para las compañías operadoras los primeros 5 días de cada mes.&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-25" value="&lt;b&gt;Nota:&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;Los &quot;Gastos Reembolsables&quot; se facturan para las compañías operadoras los primeros 5 días de cada mes.&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-180" y="70" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="E8Wn0cG4T92t8glCtYgr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#D6B656;" edge="1" parent="1" source="HabyqpvQ-63LSKwvWhZR-26" target="HabyqpvQ-63LSKwvWhZR-5">
+        <mxCell id="E8Wn0cG4T92t8glCtYgr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#D6B656;" parent="1" source="HabyqpvQ-63LSKwvWhZR-26" target="HabyqpvQ-63LSKwvWhZR-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-26" value="En la ventana emergente selecciona el &quot;Grupo Condominio&quot; y da clic en el botón &quot;Facturas Gastos Reembolsables&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="HabyqpvQ-63LSKwvWhZR-26" value="En la ventana emergente selecciona el &quot;Grupo Condominio&quot; y da clic en el botón &quot;Facturas Gastos Reembolsables&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="580" y="70.00999999999998" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
