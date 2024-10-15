@@ -162,28 +162,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HabyqpvQ-63LSKwvWhZR-5" value="Da clic en la opción &quot;Filtro&quot;, selecciona &quot;Fecha de Factura&quot; seguido del mes a visualizar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="580" y="190" width="220" height="80" as="geometry" />
+          <mxGeometry x="580" y="180" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HabyqpvQ-63LSKwvWhZR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#D6B656;" parent="1" source="HabyqpvQ-63LSKwvWhZR-7" target="HabyqpvQ-63LSKwvWhZR-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HabyqpvQ-63LSKwvWhZR-7" value="En la visual de facturas marca check en la pestaña &quot;Número&quot;, y selecciona el grupo de facturas" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFF2CC;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="330" y="190" width="220" height="80" as="geometry" />
+          <mxGeometry x="330" y="180" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2YpaQFn7NCSF2Sjay1o--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#D6B656;" parent="1" source="HabyqpvQ-63LSKwvWhZR-9" target="HabyqpvQ-63LSKwvWhZR-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HabyqpvQ-63LSKwvWhZR-9" value="Da clic en &quot;Acción&quot; seguido de la opción &quot;Exportar&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="74.75" y="190" width="220" height="80" as="geometry" />
+          <mxGeometry x="74.75" y="180" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2YpaQFn7NCSF2Sjay1o--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#D6B656;" parent="1" source="HabyqpvQ-63LSKwvWhZR-12" target="HabyqpvQ-63LSKwvWhZR-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HabyqpvQ-63LSKwvWhZR-12" value="En la ventana &quot;Exportar Información&quot;, va la pestaña de &quot;Campos a exportar&quot;, despliega la lista &quot;Plantilla&quot; y selecciona la opción &quot;R-02 Facturación&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="71.25" y="310" width="227" height="80" as="geometry" />
+          <mxGeometry x="71.25" y="290" width="227" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HabyqpvQ-63LSKwvWhZR-13" value="Leyenda" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="220" width="200" height="200" as="geometry" />
+          <mxGeometry x="-180" y="220" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="HabyqpvQ-63LSKwvWhZR-14" value="" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="HabyqpvQ-63LSKwvWhZR-13" vertex="1">
           <mxGeometry x="45" y="50" width="20" height="20" as="geometry" />
@@ -197,11 +197,8 @@
         <mxCell id="HabyqpvQ-63LSKwvWhZR-17" value="Excel" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HabyqpvQ-63LSKwvWhZR-13" vertex="1">
           <mxGeometry x="70" y="85" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HabyqpvQ-63LSKwvWhZR-18" value="" style="whiteSpace=wrap;html=1;fillColor=#C3ABD0;strokeColor=#B5739D;" parent="HabyqpvQ-63LSKwvWhZR-13" vertex="1">
-          <mxGeometry x="45" y="130" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="HabyqpvQ-63LSKwvWhZR-19" value="Da clic en el botón &quot;Exportar&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="326.5" y="310" width="227" height="80" as="geometry" />
+          <mxGeometry x="330" y="290" width="227" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HabyqpvQ-63LSKwvWhZR-20" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" target="HabyqpvQ-63LSKwvWhZR-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -266,13 +263,13 @@
           <mxGeometry x="467" y="739" width="227" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3xKkBu2r6gg5oFQvsSZV-13" value="Facturas Aliados" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#B3FF66;strokeColor=#66CC00;" parent="1" vertex="1">
-          <mxGeometry x="260" y="830" width="227" height="80" as="geometry" />
+          <mxGeometry x="294.75" y="850" width="227" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3xKkBu2r6gg5oFQvsSZV-14" value="Facturas Propietaria" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#B3FF66;strokeColor=#66CC00;" parent="1" vertex="1">
-          <mxGeometry x="520" y="830" width="227" height="80" as="geometry" />
+          <mxGeometry x="557" y="850" width="227" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3xKkBu2r6gg5oFQvsSZV-15" value="PREGUNTAR A ENDER CUALES ALIADOS FACTURAN EN LOS GASTOS REEMBOLSABLES&lt;div&gt;en Bs&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="505" width="160" height="160" as="geometry" />
+          <mxGeometry x="-170" y="425" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
